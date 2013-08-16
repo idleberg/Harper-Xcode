@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 
-    Name:     Harper
-    Author:   Jan T. Sott
-    URL:      https://github.com/idleberg/Harper-Xcode
+    Name:       Harper
+    Author:     Jan T. Sott
+    License:    Creative Commons Attribution-ShareAlike 3.0 Unported License
+    URL:        https://github.com/idleberg/Harper-Xcode
 
     Base16 template by for Xcode by Joe Bilt (https://github.com/joedynamite)
 
 -->
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>DVTConsoleDebuggerInputTextColor</key>
